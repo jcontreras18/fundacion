@@ -53,6 +53,11 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
 
+.navbar-nav {
+  justify-content: flex-start;
+}
+
+
 body {
   margin: 0;
   font-family: "Nunito Sans", sans-serif;
@@ -9775,7 +9780,6 @@ h6 {
 .navbar-dark .navbar-nav .nav-link {
   padding: 30px 20px;
   font-size: 18px;
-  letter-spacing: 1px;
   color: #181818;
   outline: none;
 }
