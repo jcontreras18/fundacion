@@ -2396,8 +2396,6 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #00565B;
-  border-color: #00565B;
 }
 
 .btn-primary:hover {
@@ -9544,7 +9542,7 @@ button.bg-dark:focus {
 }
 
 .text-white {
-  color: #000 !important;
+  color: #4f9e5a !important;
 }
 
 .text-primary {
@@ -9857,5 +9855,13 @@ h6 {
   border-radius: 50%; /* Hace que el contenedor sea circular */
   overflow: hidden; /* Oculta cualquier parte de la imagen que se salga del círculo */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Sombra suave */
+  text-align: center;
+}
+
+.j {
+  text-align: justify;
+}
+
+.cen {
   text-align: center;
 }
