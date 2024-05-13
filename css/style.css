@@ -7725,20 +7725,20 @@ button.bg-dark:focus {
   margin: 3rem !important;
 }
 
-.mt-5,
+/* .mt-5,
 .my-5 {
   margin-top: 3rem !important;
-}
+} */
 
 .mr-5,
 .mx-5 {
   margin-right: 3rem !important;
 }
 
-.mb-5,
+/* .mb-5,
 .my-5 {
   margin-bottom: 3rem !important;
-}
+} */
 
 .ml-5,
 .mx-5 {
