@@ -2400,7 +2400,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary {
-  color: #fff;
+  color: #2f7e0f;
 }
 
 .btn-primary:hover {
@@ -9856,7 +9856,7 @@ h6 {
 
 .img-circle {
   width: 450px;
-  height: 377px;
+  height: 350px;
   border-radius: 50%; /* Hace que el contenedor sea circular */
   overflow: hidden; /* Oculta cualquier parte de la imagen que se salga del círculo */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Sombra suave */
@@ -9870,3 +9870,4 @@ h6 {
 .cen {
   text-align: center;
 }
+
