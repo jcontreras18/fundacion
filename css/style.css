@@ -105,7 +105,7 @@ abbr[data-original-title] {
 
 .contenedor-imagen {
   width: 353px; 
-  height: 452px;
+  /* height: 452px; */
   overflow: hidden;
 }
 
@@ -7836,10 +7836,10 @@ button.bg-dark:focus {
   padding-right: 1rem !important;
 }
 
-.pb-3,
+/* .pb-3,
 .py-3 {
   padding-bottom: 1rem !important;
-}
+} */
 
 .pl-3,
 .px-3 {
@@ -7876,7 +7876,7 @@ button.bg-dark:focus {
 
 .pt-5,
 .py-5 {
-  padding-top: 3rem !important;
+  padding-top: 2rem !important;
 }
 
 .pr-5,
