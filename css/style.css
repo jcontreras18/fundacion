@@ -9890,3 +9890,28 @@ h6 {
   width: 100%;
   height: 100%;
 }
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;  
+}
+.social-icons a {
+  color: white; 
+  font-size: 1rem; /* Tamaño del icono reducido */
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px; /* Tamaño del cuadrado reducido */
+  height: 30px; /* Tamaño del cuadrado reducido */
+  border-radius: 50%; 
+}
+.social-icons a.facebook {
+  background-color: #3b5998; 
+}
+.social-icons a.instagram {
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%); 
+}
+.social-icons a:hover {
+  opacity: 0.8; 
+}  
